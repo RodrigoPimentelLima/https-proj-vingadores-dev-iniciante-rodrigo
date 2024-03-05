@@ -91,7 +91,7 @@ header a:focus {
     background-color: #f13239;
 height: 320px;
 padding: 24px;
-background-image: url(../imagens/banner.jpg);
+background-image: url(..//imagens/banner.jpg);
 background-size: cover;
 background-position: center top 25%;
 display: flex;
