@@ -110,6 +110,8 @@ align-items: center;
     font-size: 36px;
     background-color: #f13239;
     padding: 4px 8px;
+    border-radius: 10px;
+    
 }
 
 .dots{
