@@ -1,3 +1,7 @@
+html {
+    background-color: black;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -24,6 +28,7 @@ h2 {
     margin-bottom: 32px;
     border-left: 4px solid #f13239;
     padding-left: 8px;
+    color: aliceblue;
 }
 
 .container{
@@ -137,9 +142,7 @@ align-items: center;
     padding: 64px 24px 96px;
 }
 
-.gallery h2 {
-    color: #111111;
-}
+
 
 .gallery-row {
     display: flex;
@@ -196,4 +199,9 @@ border-top: 4px solid #f13239;
 footer{
     padding: 64px 24px;
     text-align: center;
+}
+
+.texto-branco {
+    color: #ebebeb;
+   z-index: 1;
 }
